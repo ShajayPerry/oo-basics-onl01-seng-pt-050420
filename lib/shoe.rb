@@ -10,8 +10,7 @@ class Shoe
     puts "Your shoe is as good as new!"
   end 
   
-  cobble = Shoe.new(condition)
-  shoe.cobble 
+ 
   
   
 end 
