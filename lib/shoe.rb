@@ -11,7 +11,8 @@ class Shoe
   end 
   
   
-  @condition = "new" 
+  @condition = "new"
+  end 
  
   
   
